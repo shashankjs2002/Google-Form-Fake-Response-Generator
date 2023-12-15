@@ -84,10 +84,6 @@ while(fakeLimit):
     # print(url)
 
 
-    # Replace 'your_endpoint_url' with the actual URL of the endpoint you want to access
-    # endpoint_url = 'your_endpoint_url'
-
-
 
     time.sleep(2)
     # Send a GET request
